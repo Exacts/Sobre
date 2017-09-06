@@ -7,7 +7,7 @@ Thank you for the visit. This is the exacts repository.
 - Mathematical
 - Others
 
-## Repositors
+## Repositories
 
 1. Jogos
 2. Geral
